@@ -18,19 +18,7 @@ Number of Items: The total count of items sold.
 Average Rating: The customer satisfaction rating for sold items.
 
 * 📊 Visualizations
-The following visualizations were created to answer the business requirements:
-__________________________________________________________________________________________________________________________
-|     Visualization               |    	Objective                                                 |  	Chart Type         |
-|_________________________________| ______________________________________________________________| _____________________|
-| Total Sales by Fat Content      |	Analyze the impact of fat content on sales and other KPIs.    |	Donut Chart          |
-| Total Sales by Item Type	      | Assess item-type performance in terms of sales.	              | Bar Chart            |
-| Fat Content by Outlet for Sales	| Compare sales across outlets segmented by fat content.	      | Stacked Column Chart |
-| Total Sales by Outlet Age       |	Understand the impact of outlet age/type on sales.	          | Line Chart           |
-| Sales by Outlet Size	          | Correlate outlet size with total sales.                       |	Donut/Pie Chart      |
-| Sales by Outlet Location	      | Assess geographic sales distribution.                         |	Funnel Map           |
-| All Metrics by Outlet Type	    | Provide a breakdown of all KPIs by outlet type.               |	Matrix Card          |
-| ________________________________| ______________________________________________________________| _____________________|
-
+The following visualizations were created to answer the business requirements: ![image](https://github.com/user-attachments/assets/da84b5b6-5594-48d6-8380-1e48d4817f46)
 
 * 🛠️ Tools & Technologies
 Power BI: Interactive dashboards and advanced visualizations.
