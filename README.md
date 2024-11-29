@@ -19,9 +19,9 @@ Average Rating: The customer satisfaction rating for sold items.
 
 * 📊 Visualizations
 The following visualizations were created to answer the business requirements:
---------------------------------------------------------------------------------------------------------------------------
-|     Visualization             |    	Objective                                                 |  	Chart Type           |
---------------------------------------------------------------------------------------------------------------------------
+__________________________________________________________________________________________________________________________
+|     Visualization               |    	Objective                                                 |  	Chart Type         |
+|_________________________________| ______________________________________________________________| _____________________|
 | Total Sales by Fat Content      |	Analyze the impact of fat content on sales and other KPIs.    |	Donut Chart          |
 | Total Sales by Item Type	      | Assess item-type performance in terms of sales.	              | Bar Chart            |
 | Fat Content by Outlet for Sales	| Compare sales across outlets segmented by fat content.	      | Stacked Column Chart |
@@ -29,7 +29,7 @@ The following visualizations were created to answer the business requirements:
 | Sales by Outlet Size	          | Correlate outlet size with total sales.                       |	Donut/Pie Chart      |
 | Sales by Outlet Location	      | Assess geographic sales distribution.                         |	Funnel Map           |
 | All Metrics by Outlet Type	    | Provide a breakdown of all KPIs by outlet type.               |	Matrix Card          |
---------------------------------------------------------------------------------------------------------------------------
+| ________________________________| ______________________________________________________________| _____________________|
 
 
 * 🛠️ Tools & Technologies
